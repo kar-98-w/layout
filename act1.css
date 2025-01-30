@@ -1,0 +1,158 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    width: 100%;
+    height: 729px;
+    border: 8px solid darkgreen;
+    background-color: lightgreen;
+}
+
+.top {
+    width: 97%;
+    display: flex;
+    height: 160px;
+    border: 8px solid darkblue;
+    background-color: lightblue;
+    margin: 20px;  
+    padding: 20px;       
+    justify-content: space-between;
+    align-items: center;                 
+}
+
+.left {
+    width: 33%;
+    height: 110px;
+    border: 6px solid lightcoral;
+    background-color: lightyellow;
+}
+.center {
+    width: 33%;
+    height: 110px;
+    border: 6px solid lightcoral;
+    background-color: lightyellow;
+    padding: 10px;
+    display: flex;
+}
+.right {
+    width: 33%;
+    height: 110px;
+    border: 6px solid lightcoral;
+    background-color: lightyellow;
+}
+
+.q {
+    width: 50%;
+    height: 100%;
+    background-color: lightpink;
+    border: 5px solid red;
+}
+
+.p {
+    width: 50%;
+    height: 100%;
+    background-color: lightpink;
+    border: 5px solid red;
+}
+
+
+
+
+/*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
+.mid {
+    margin: 20px;
+    height: 260px;
+    width: 97%;
+    background-color: transparent;
+    display: flex;
+}
+
+.kaliwa {
+    width: 50%;
+    height: 100%;
+    background-color: lightpink;
+    border: 5px solid darkred;
+    margin-right: 10px;
+}
+
+.kanan{
+    width: 50%;
+    height: 100%;
+}
+
+.taas {
+    width: 100%;
+    height: 48%;
+    background-color: lightpink;
+    border: 5px solid darkred;
+    margin-bottom: 10px;
+}
+
+.baba {
+    width: 100%;
+    height: 48%;
+    background-color: lightpink;
+    border: 5px solid darkred;
+}
+
+
+
+
+/*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
+
+.bottom {
+    width: 97%;
+    height: 30%;
+    border: 10px solid darkblue;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.kaili {
+    width: 33%;
+    height: 100%;
+    background-color: lavender;
+    border: 5px solid purple;
+}
+
+.libutad {
+    width: 33%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wanan {
+    width: 33%;
+    height: 100%;
+    background-color: lavender;
+    border: 5px solid purple;
+}
+
+.babo {
+    width: 49%;
+    height: 100%;
+    background-color: lightyellow;
+    border: 5px solid lightcoral;
+}
+
+.lalam {
+    width: 49%;
+    height: 100%;
+    background-color: lightyellow;
+    border: 5px solid lightcoral;
+}
+
+
+
+.name {
+    margin-top: 30px;
+    text-align: center;
+    justify-content: center;
+    
+}
